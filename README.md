@@ -1,16 +1,13 @@
 # assessment_studio_93
 
-A new Flutter project.
+Flutter Version (Flutter  3.13.0 )
+For state-management use GetX
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+For Iphone please run below line on terminal
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    cd ios && arch -x86_64 pod install && cd ../  (For M1 Chip)
+                        OR
+    cd ios &&  pod install && cd ../  (For Intel Chip)
+# Digital14-assessment
