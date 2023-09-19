@@ -3,8 +3,11 @@
 Flutter Version (Flutter  3.13.0 )
 
 For state-management use GetX
+ 
 1:add app logo
+ 
 2:Splash screen
+ 
 3:Food items selection screen
 
 
