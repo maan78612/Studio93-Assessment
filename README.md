@@ -15,8 +15,9 @@ Mentioned below are extra things for better application flow:
 3: Food items selection screen
 
 
+Working for Both Android and iOS
 
-For Iphone please run below line on terminal
+For Iphone please run below line on terminal (if there is any POD issue)
 
     cd ios && arch -x86_64 pod install && cd ../  (For M1 Chip)
                         OR
