@@ -4,11 +4,15 @@ Flutter Version (Flutter  3.13.0 )
 
 For state-management use GetX
  
-1:add app logo
+
+Mentioned below are extra things for better application flow:
+
+
+1: Add app logo
  
-2:Splash screen
+2: Splash screen
  
-3:Food items selection screen
+3: Food items selection screen
 
 
 
